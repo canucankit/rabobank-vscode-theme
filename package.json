@@ -1,0 +1,29 @@
+{
+    "name": "rabobank-theme",
+    "displayName": "Rabobank VSCode Theme",
+    "description": "This is a vscode theme based on Rabobank color codes.",
+    "publisher": "canucankit",
+    "repository": {
+		"url": "https://github.com/canucankit/rabobank-vscode-theme.git"
+	},
+    "author": {
+        "name": "Ankit Raghuvanshi"
+    },
+    "icon": "images/rabobank.png",
+	"version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rabobank Vscode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rabobank-color-theme.json"
+            }
+        ]
+    }
+}
