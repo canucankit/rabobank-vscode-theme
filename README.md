@@ -4,7 +4,7 @@ This extension for Visual Studio Code adds themes titled "Rabobank". This is bas
 
 I personally use the dark themes for most occasions, soon there will be a lighter version available.
 
-<img src="theme.png">
+<img src="https://raw.githubusercontent.com/canucankit/rabobank-vscode-theme/main/theme.png">
 
 ## Installation
 As the Rabobank theme plugin is yet not available on marketplace, you can still install
